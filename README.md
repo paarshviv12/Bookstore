@@ -1,6 +1,8 @@
 # Bookstore Interface 📚
 
-A modern, front-end web interface for an online bookstore. It dynamically presents a variety of popular books across different literary genres in an organized format.
+A modern, front-end web interface for an online bookstore, currently showcasing a curated selection of iconic classic literature and dystopian fiction. 
+
+The catalog presented features famous, culturally significant works such as *1984*, *Brave New World*, *Fahrenheit 451*, *To Kill a Mockingbird*, *The Great Gatsby*, *The Catcher in the Rye*, and *The Hobbit*.
 
 ## 🌟 Features
 - **Book Display:** Visually distinct sections for different book genres.
