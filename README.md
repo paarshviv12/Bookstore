@@ -1,5 +1,9 @@
 # Bookstore Interface 📚
 
+<div align="center">
+  <img src="https://media.tenor.com/0p54Ll3ekM0AAAAi/cute-cat.gif" height="200" />
+</div>
+
 A modern, front-end web interface for an online bookstore, currently showcasing a curated selection of iconic classic literature and dystopian fiction. 
 
 The catalog presented features famous, culturally significant works such as *1984*, *Brave New World*, *Fahrenheit 451*, *To Kill a Mockingbird*, *The Great Gatsby*, *The Catcher in the Rye*, and *The Hobbit*.
